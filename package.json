@@ -11,14 +11,22 @@
   "dependencies": {
     "@react-navigation/native": "^7.1.21",
     "@react-navigation/native-stack": "^7.7.0",
+    "@tamagui/config": "^1.138.2",
+    "@tamagui/core": "^1.138.2",
+    "@tamagui/lucide-icons": "^1.138.2",
     "expo": "~54.0.25",
+    "expo-image-picker": "^17.0.8",
     "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
+    "react-dom": "19.1.0",
     "react-native": "0.81.5",
     "react-native-safe-area-context": "~5.6.0",
-    "react-native-screens": "~4.16.0"
+    "react-native-screens": "~4.16.0",
+    "react-native-web": "^0.21.0",
+    "tamagui": "^1.138.2"
   },
   "devDependencies": {
+    "@tamagui/babel-plugin": "^1.138.2",
     "@types/react": "~19.1.0",
     "typescript": "~5.9.2"
   },
